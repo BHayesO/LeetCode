@@ -34,4 +34,3 @@ if __name__ == "__main__":
     while result:
         print(result.val, end=" -> ")
         result = result.next
-    print("None")
