@@ -33,5 +33,8 @@
     <ClCompile Include="6. Zigzag Conversion.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="7. Reverse Integer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
