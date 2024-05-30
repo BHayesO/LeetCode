@@ -4,7 +4,6 @@ class Solution:
         usedCharacters = {}
 
         for i in range(len(s)-1):
-            print(usedCharacters)
             if s[i] in usedCharacters and start <= usedCharacters[s[i]]:
                 start = usedCharacters[s[i]] + 1
             else:
