@@ -36,5 +36,8 @@
     <ClCompile Include="7. Reverse Integer.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="8. String to Integer (atoi).cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
