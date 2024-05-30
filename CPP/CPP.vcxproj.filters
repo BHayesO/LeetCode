@@ -27,5 +27,11 @@
     <ClCompile Include="4. Median of Two SortedArrays.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="5. Longest Palindromic Substring.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Zigzag Conversion.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
