@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1. Two_Sum.cpp">
+    <ClCompile Include="1. Two Sum.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="2. Add_Two_Numbers.cpp">
+    <ClCompile Include="2. Add Two Numbers.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="3. Longest_SubstringWithoutRepeatingCharacters.cpp">
+    <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="4. Median of Two SortedArrays.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

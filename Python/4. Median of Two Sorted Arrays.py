@@ -26,6 +26,7 @@ class Solution:
             return (merge[mid-1]+merge[mid])/2
         else:
             return merge[mid]
+        
     ''' Solution using native functions of python (sort)
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         nums = nums1 + nums2
