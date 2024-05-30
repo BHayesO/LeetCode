@@ -1,0 +1,14 @@
+# Excluir la carpeta .vs
+.vs/
+
+# Otras exclusiones recomendadas para proyectos de Visual Studio
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+*.opendb
+*.VC.db
+.idea/
+.vscode/
