@@ -39,5 +39,11 @@
     <ClCompile Include="8. String to Integer (atoi).cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="9. Palindrome Number.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="10. Regular Expression Matching.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
