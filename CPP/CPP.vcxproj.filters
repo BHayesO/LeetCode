@@ -45,5 +45,8 @@
     <ClCompile Include="10. Regular Expression Matching.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="11. Container With Most Water.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
