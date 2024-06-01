@@ -139,7 +139,10 @@
     <ClCompile Include="12. Integer to Roman.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="13. Roman to Integer.cpp" />
+    <ClCompile Include="13. Roman to Integer.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="14. Longest Common Prefix.cpp" />
     <ClCompile Include="2. Add Two Numbers.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
