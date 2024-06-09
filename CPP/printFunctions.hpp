@@ -7,7 +7,6 @@
 #include <string>
 #include "Structures.hpp"
 
-
 // Function declarations
 void printVector(const std::vector<int>& vec);
 void printVector(const std::vector<std::string>& vec);
