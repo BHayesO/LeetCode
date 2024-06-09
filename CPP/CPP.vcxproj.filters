@@ -86,5 +86,8 @@
     <ClInclude Include="printFunctions.hpp">
       <Filter>Archivos de origen</Filter>
     </ClInclude>
+    <ClInclude Include="Structures.hpp">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
