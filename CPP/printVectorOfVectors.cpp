@@ -1,4 +1,3 @@
-// printVectorOfVectors.cpp
 #include "printFunctions.hpp"
 
 void printVectorOfVectors(const std::vector<std::vector<int>>& vecOfVecs) {
