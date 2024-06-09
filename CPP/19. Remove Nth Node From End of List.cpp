@@ -11,7 +11,7 @@ public:
 		ListNode* first = head;
 		int nodes = 0;
 
-		while (first != nullptr) {
+		while (first) { // while (first != nullptr) { is the same
 			nodes++;
 			first = first->next;
 		}

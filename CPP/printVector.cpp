@@ -21,3 +21,11 @@ void printVector(const std::vector<std::string>& vec) {
 	}
 	std::cout << "]";
 }
+
+void printVector(const std::vector<ListNode*>& vec) {
+	std::cout << "[" << std::endl;
+	for (const auto& listNode : vec) {
+		printListNode(listNode);
+	}
+	std::cout << "]" << std::endl;
+}
